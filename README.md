@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Martin
 #### Soy desarrollador en software
-![Soy desarrollador en software](http://mudekaos.servegame.com/images/desarrollo%204-2.jpg)
+
 
 Habilidades:Java/HTML/Css/ MYSQL/Android studio
 
